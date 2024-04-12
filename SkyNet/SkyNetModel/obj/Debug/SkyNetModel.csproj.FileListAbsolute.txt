@@ -1,0 +1,6 @@
+T:\skynet\SkyNet\SkyNetModel\bin\Debug\SkyNetModel.dll
+T:\skynet\SkyNet\SkyNetModel\bin\Debug\SkyNetModel.pdb
+T:\skynet\SkyNet\SkyNetModel\obj\Debug\SkyNetModel.csproj.AssemblyReference.cache
+T:\skynet\SkyNet\SkyNetModel\obj\Debug\SkyNetModel.csproj.CoreCompileInputs.cache
+T:\skynet\SkyNet\SkyNetModel\obj\Debug\SkyNetModel.dll
+T:\skynet\SkyNet\SkyNetModel\obj\Debug\SkyNetModel.pdb

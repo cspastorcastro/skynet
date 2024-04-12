@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\skynet\\SkyNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488FC958-21AC-41DC-8277-BAE457845494}|SkyNet\\SkyNet.csproj|t:\\skynet\\skynet\\skynet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488FC958-21AC-41DC-8277-BAE457845494}|SkyNet\\SkyNet.csproj|solutionrelative:skynet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833B317B-648C-40C9-804D-B7D2C06278BB}|SkyNetModel\\SkyNetModel.csproj|t:\\skynet\\skynet\\skynetmodel\\dto\\terminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833B317B-648C-40C9-804D-B7D2C06278BB}|SkyNetModel\\SkyNetModel.csproj|solutionrelative:skynetmodel\\dto\\terminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833B317B-648C-40C9-804D-B7D2C06278BB}|SkyNetModel\\SkyNetModel.csproj|t:\\skynet\\skynet\\skynetmodel\\dal\\terminatordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833B317B-648C-40C9-804D-B7D2C06278BB}|SkyNetModel\\SkyNetModel.csproj|solutionrelative:skynetmodel\\dal\\terminatordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488FC958-21AC-41DC-8277-BAE457845494}|SkyNet\\SkyNet.csproj|t:\\skynet\\skynet\\skynet\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488FC958-21AC-41DC-8277-BAE457845494}|SkyNet\\SkyNet.csproj|solutionrelative:skynet\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\skynet\\SkyNet\\SkyNet\\Operaciones\\Program.cs",
+              "RelativeDocumentMoniker": "SkyNet\\Operaciones\\Program.cs",
+              "ToolTip": "T:\\skynet\\SkyNet\\SkyNet\\Operaciones\\Program.cs",
+              "RelativeToolTip": "SkyNet\\Operaciones\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwFQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:14:17.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TerminatorDAL.cs",
+              "DocumentMoniker": "T:\\skynet\\SkyNet\\SkyNetModel\\DAL\\TerminatorDAL.cs",
+              "RelativeDocumentMoniker": "SkyNetModel\\DAL\\TerminatorDAL.cs",
+              "ToolTip": "T:\\skynet\\SkyNet\\SkyNetModel\\DAL\\TerminatorDAL.cs",
+              "RelativeToolTip": "SkyNetModel\\DAL\\TerminatorDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:09:44.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terminator.cs",
+              "DocumentMoniker": "T:\\skynet\\SkyNet\\SkyNetModel\\DTO\\Terminator.cs",
+              "RelativeDocumentMoniker": "SkyNetModel\\DTO\\Terminator.cs",
+              "ToolTip": "T:\\skynet\\SkyNet\\SkyNetModel\\DTO\\Terminator.cs",
+              "RelativeToolTip": "SkyNetModel\\DTO\\Terminator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T22:58:10.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\skynet\\SkyNet\\SkyNet\\Program.cs",
+              "RelativeDocumentMoniker": "SkyNet\\Program.cs",
+              "ToolTip": "T:\\skynet\\SkyNet\\SkyNet\\Program.cs",
+              "RelativeToolTip": "SkyNet\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T22:56:04.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

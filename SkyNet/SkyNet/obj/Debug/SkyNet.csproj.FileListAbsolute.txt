@@ -1,0 +1,10 @@
+T:\skynet\SkyNet\SkyNet\bin\Debug\SkyNet.exe.config
+T:\skynet\SkyNet\SkyNet\bin\Debug\SkyNet.exe
+T:\skynet\SkyNet\SkyNet\bin\Debug\SkyNet.pdb
+T:\skynet\SkyNet\SkyNet\obj\Debug\SkyNet.csproj.AssemblyReference.cache
+T:\skynet\SkyNet\SkyNet\obj\Debug\SkyNet.csproj.CoreCompileInputs.cache
+T:\skynet\SkyNet\SkyNet\obj\Debug\SkyNet.exe
+T:\skynet\SkyNet\SkyNet\obj\Debug\SkyNet.pdb
+T:\skynet\SkyNet\SkyNet\bin\Debug\SkyNetModel.dll
+T:\skynet\SkyNet\SkyNet\bin\Debug\SkyNetModel.pdb
+T:\skynet\SkyNet\SkyNet\obj\Debug\SkyNet.csproj.Up2Date
